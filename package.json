@@ -4,7 +4,7 @@
   "description": "mern app",
   "main": "server.js",
   "scripts": {
-    "test": "frontend/react-scripts test",
+    "test": "react-scripts test",
     "start": "nodemon backend/server"
   },
   "author": "Sam Benson",
